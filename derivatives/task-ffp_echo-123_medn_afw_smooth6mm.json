@@ -1,0 +1,9 @@
+{
+    "RepetitionTime": 3.0,
+    "TaskName": "ffp",
+    "MagneticFieldStrength": 3,
+    "EchoTime": "optimally combined based on multi-echo acquisition: TE1 = 0.0127, TE2 = 0.02739, TE3 = 0.0425",
+    "PulseSequenceType": "GE-EPI",
+    "FlipAngle": 83,
+    "TaskDescription": "The Famous Faces and Places (FFP) task used a mixed design, combining event-related and block-based elements. Individual events (i.e., stimuli) varied along two dimensions: domain (face, place) and fame (famous, anonymous). Blocked conditions manipulated the task (N-back vs. Categorization, with selective attention modulated within N-back blocks by instructing participants to attend either to famous or anonymous stimuli)."
+}
