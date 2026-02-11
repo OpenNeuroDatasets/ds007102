@@ -6,5 +6,7 @@
         "Roni Setton",
         "Gary Turner",
         "Nathan Spreng"
-    ]
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007102.v1.0.0",
+    "License": "CC0"
 }
