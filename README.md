@@ -1,1 +1,1 @@
-This database includes raw and preprocessed task-based functional scans reported in Diveica et al. (2026, PNAS). Associated anatomical and resting-state scans are available at: https://openneuro.org/datasets/ds003592 
+This database includes the raw and preprocessed task-based functional scans reported in Diveica et al. (2026, PNAS). Associated anatomical and resting-state scans are available at: https://openneuro.org/datasets/ds003592 
